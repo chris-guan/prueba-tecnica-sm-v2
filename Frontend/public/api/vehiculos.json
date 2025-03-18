@@ -1,0 +1,11 @@
+[
+    {
+        "id_vehiculo": 1,
+        "id_usuario": 7,
+        "marca": "Chevrolet",
+        "ubicacion": "https://maps.app.goo.gl/Dkm9xTJKTe6qxjez6",
+        "nivel_conbustible": 20,
+        "temperatura": 37,
+        "kilometraje": 35698
+    }
+]
